@@ -4,19 +4,19 @@ Open Shift Data Foundation Workshop for Red Hat Partners
 
 9:30	Welcome
 
-9:45	V1 OpenSHift Container Storage
+9:45	OpenShift Container Storage (Data Foundation) Overview
 
-9:35	P02 DataFoundation Business
+9:35	OpenShift DataFoundation Business View
 
-10:25	CEPH Videos V1 & V2
+10:25	CEPH Introduction
 
-10:40	NOBAA Video
+10:40	CloudObjectGateway (NOBAA) Introduction 
 
 10:42	BREAK
 
 11:00	Install ODF Live on AWS Cluster
 
-11:30	V5 ODF Nano on CRC
+11:30	ODF Nano on CRC
 
 11:37	ODF Running On AWS and NANO Running on Home Lab
 
@@ -31,10 +31,5 @@ Open Shift Data Foundation Workshop for Red Hat Partners
 15:45	Intro into LAB / HomeWork
 
 16:00	END
-
-
-
-
-
 
 HomeWork to get the Acreditation: https://connect.redhat.com/en/training/course-catalog?m=c&id=44843599
