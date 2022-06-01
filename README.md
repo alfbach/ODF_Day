@@ -1,6 +1,16 @@
-# ODF_Day
+<img src="https://github.com/alfbach/OCP_Arch/blob/master/logo.png" width="450" height="120">
 
-Open Shift Data Foundation Workshop for Red Hat Partners
+
+# Red Hat OpenShift Data Foundation workshop
+## remote version
+
+BJ Link 
+
+## https://bluejeans.com/169348917/4605
+
+## https://www.menti.com/3xgrs95pk3
+
+June 2022
 
 9:30	Welcome
 
