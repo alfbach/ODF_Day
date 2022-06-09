@@ -34,14 +34,14 @@ https://github.com/alfbach/odf-nano
 
 12:00	LUNCH Break
 
-13:00	ODF Technical - BackUp & DR
+13:30	ODF Technical - BackUp & DR
 
-14:00	BREAK
+14:30	BREAK
 
-14:15	What´ s Comming - RoadMap
+14:45	What´ s Comming - RoadMap
 
-14:45	Intro into LAB / HomeWork
+15:15	Intro into LAB / HomeWork
 
-15:00	END
+15:30	END
 
 HomeWork to get the Acreditation: https://connect.redhat.com/en/training/course-catalog?m=c&id=44843599
