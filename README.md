@@ -30,16 +30,18 @@ June 2022
 
 11:37	ODF Running On AWS and NANO Running on Home Lab
 
+https://github.com/alfbach/odf-nano
+
 12:00	LUNCH Break
 
 13:00	ODF Technical - BackUp & DR
 
-15:00	BREAK
+14:00	BREAK
 
-15:15	What´ s Comming - RoadMap
+14:15	What´ s Comming - RoadMap
 
-15:45	Intro into LAB / HomeWork
+14:45	Intro into LAB / HomeWork
 
-16:00	END
+15:00	END
 
 HomeWork to get the Acreditation: https://connect.redhat.com/en/training/course-catalog?m=c&id=44843599
