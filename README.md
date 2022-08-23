@@ -6,11 +6,11 @@
 
 BJ Link 
 
-## https://bluejeans.com/456106931/8167
+## https://bluejeans.com/351766969/5425
 
 ## https://www.menti.com/3xgrs95pk3
 
-June 2022
+August 2022
 
 9:30	Welcome
 
